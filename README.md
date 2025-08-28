@@ -1,7 +1,5 @@
 # 👨‍💻 Matheushtms
 
-Me chamo Matheus Malta, tenho 21 anos e sou natural de Minas Gerais. Concluí o ensino médio no IABC. Atualmente, estou cursando Engenharia de Software na PUC Minas.
-
 <div align="center">
   <h2>Contacts</h2> <br>
   <a href="malito:matheushtms04@gmail.com" target="_blank">
