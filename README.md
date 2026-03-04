@@ -7,7 +7,7 @@
   </a>
 </div>
 <div>
-<img align="center" alt="Header" src=<img width="2000" height="400" alt="header" src="https://github.com/user-attachments/assets/4456a415-d232-4639-a737-88770b902769" />
+<img width="2000" height="400" alt="header" src="https://github.com/user-attachments/assets/4456a415-d232-4639-a737-88770b902769" />
 
 </div>
 <div align="center">
