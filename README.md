@@ -6,7 +6,9 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
-
+<div>
+<img align="center" alt="Header" src="https://joaopauloaramuni.github.io/image/header_aramuni.png"/>
+</div>
 <div align="center">
   <h2>Social</h2>
   <a href="https://www.instagram.com/matheus_hmalta/" target="_blank">
