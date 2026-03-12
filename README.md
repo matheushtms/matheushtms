@@ -153,9 +153,7 @@
 <!-- <img alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopauloaramuni&layout=pie&theme=dark&locale=pt-br"/> -->
   
 [![Linguagens mais usadas](https://helio-github-stats.vercel.app/api/top-langs?username=matheushtms&layout=normal&stats_format=percentages&theme=dark&hide_border=false&border_radius=4.5&card_width=466&locale=pt-br&custom_title=Linguagens+mais+usadas&langs_count=8)](https://nice-readme.vercel.app/top-langs)
-
-  
-</td>
+  </td>
 <td>
   
 [![Linguagens mais usadas](https://helio-github-stats.vercel.app/api/top-langs?username=matheushtms&layout=pie&stats_format=percentages&theme=dark&hide_border=false&border_radius=4.4&card_width=466&locale=pt-br&custom_title=Linguagens+mais+usadas&langs_count=8)](https://nice-readme.vercel.app/top-langs)
@@ -166,11 +164,17 @@
  <td align="center" colspan="3"></td>
 </tr> 
 </table>
+<table>
+<tr>
+<td>
+  
+[![GitHub Stats](https://helio-github-stats.vercel.app/api?username=matheushtms&custom_title=GitHub+Stats&theme=shadow_green&title_color=2d7208&text_color=2d7208&icon_color=b30000&ring_color=b30000&border_color=bd0000&hide_border=false&locale=pt-br&border_radius=4.5&card_width=466&hide_title=false&hide_rank=false&rank_icon=default&show_icons=true&include_all_commits=false&line_height=25&text_bold=true&disable_animations=false&number_format=short)](https://nice-readme.vercel.app/github-stats)
 
- 
+</td>
+</tr>
+
 
   
-
 
 <table>
 <tr>
@@ -198,25 +202,6 @@
 <br />
 
 
-
-
-
-<h2>📊 Estatísticas</h2> <br>
-<tr>
-<td>
- <td align="center" colspan="3"></td>
-<a href="https://nice-readme.vercel.app/streak-stats" target="_blank" rel="noopener noreferrer"><img src="https://github-streak-stats-ruby.vercel.app/?user=matheushtms&theme=dark&hide_border=false&border_radius=4.5&locale=pt_BR&short_numbers=false&mode=daily&disable_animations=false&card_width=466&card_height=194&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false" alt="GitHub Streak de matheushtms" width="466" height="194" loading="lazy" /></a>
-
-</td> 
-
-[![GitHub Stats](https://helio-github-stats.vercel.app/api?username=matheushtms&custom_title=GitHub+Stats&theme=shadow_green&title_color=2d7208&text_color=2d7208&icon_color=b30000&ring_color=b30000&border_color=bd0000&hide_border=false&locale=pt-br&border_radius=4.5&card_width=466&hide_title=false&hide_rank=false&rank_icon=default&show_icons=true&include_all_commits=false&line_height=25&text_bold=true&disable_animations=false&number_format=short)](https://nice-readme.vercel.app/github-stats)
-</tr>
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheushtms&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
 
 </p>
 
