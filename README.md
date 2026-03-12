@@ -1,13 +1,13 @@
 # 👨‍💻 Matheushtms
 
-<div align="center">
-  <h2>Contacts</h2> <br>
-  
-<div>
-<img width="2000" height="400" alt="header" src="https://github.com/user-attachments/assets/4456a415-d232-4639-a737-88770b902769" />
 
-<div align="center">
-  -----<img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/soulgem.svg?raw=true"/>
+<img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/ce90c80e-2805-400e-8c29-071b76b886a1" />
+
+  
+  -----
+
+   <img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/soulgem.svg?raw=true"/>
+  
 <div align="center">
 <table>
 <tr>
@@ -45,16 +45,17 @@
 </tr> 
 </table>
 </div>
------<img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/soulgem.svg?raw=true"/>
-<div align="justify">
-<i><b>Olá</b> :wave:, sou o <code>Aramuni</code>, tenho 35 anos, moro em BH e sou programador desde os 15 anos de idade. Atualmente sou <code>professor</code> nos cursos de Engenharia de Software e Ciência da Computação da <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>.</i> :man_teacher: Confira meu portfólio: <a href="https://aramuni.dev/">aramuni.dev</a>
-</div>
------<img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/soulgem.svg?raw=true"/>
-<div align="center">
 
 -----
 
+<div align="justify">
+<i><b>Olá</b> :wave:, sou o <code>Matheus Malta</code>, tenho 21 anos, moro em Belo Horizonte e sou <code>estudante</code> de Engenharia de Software <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>.</i> :man_teacher: Confira meu portfólio: <a href="https://aramuni.dev/">aramuni.dev</a>
+</div>
+
+
 <div>
+
+-----
 
 <img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/soulgem.svg?raw=true"/>Meus interesses pessoais:
 
