@@ -56,28 +56,18 @@ Sou o **Matheus Malta**, tenho 22 anos, moro em Belo Horizonte e curso o 5º per
 <table>
 <tr>
 <td>
-<a href="https://nice-readme.vercel.app/streak-stats" target="_blank" rel="noopener noreferrer"><img src="https://github-streak-stats-ruby.vercel.app/?user=matheushtms&theme=dark&hide_border=false&border_radius=4.5&locale=pt_BR&short_numbers=false&mode=daily&disable_animations=false&card_width=466&card_height=194&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false" alt="GitHub Streak de matheushtms" width="466" height="194" loading="lazy" /></a>
+<a href="https://nice-readme.vercel.app/streak-stats" target="_blank" rel="noopener noreferrer"><img src="https://github-streak-stats-ruby.vercel.app/?user=matheushtms&hide_border=false&border_radius=4.5&locale=pt_BR&short_numbers=false&mode=daily&disable_animations=false&card_width=466&card_height=194&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&background=0D1117&border=2DD4BF&stroke=2DD4BF&ring=2DD4BF&fire=2DD4BF&currStreakNum=FFFFFF&sideNums=C9D1D9&currStreakLabel=2DD4BF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak de matheushtms" width="466" height="194" loading="lazy" /></a>
+</td>
+<td>
+
+[![GitHub Stats](https://helio-github-stats.vercel.app/api?username=matheushtms&custom_title=GitHub+Stats&hide_border=false&locale=pt-br&border_radius=4.5&card_width=466&hide_title=false&hide_rank=false&rank_icon=default&show_icons=true&include_all_commits=false&line_height=25&text_bold=true&disable_animations=false&number_format=short&bg_color=0D1117&title_color=2DD4BF&text_color=C9D1D9&icon_color=2DD4BF&border_color=2DD4BF)](https://nice-readme.vercel.app/github-stats)
+
 </td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 
-[![GitHub Stats](https://helio-github-stats.vercel.app/api?username=matheushtms&custom_title=GitHub+Stats&theme=shadow_green&title_color=2d7208&text_color=2d7208&icon_color=b30000&ring_color=b30000&border_color=bd0000&hide_border=false&locale=pt-br&border_radius=4.5&card_width=466&hide_title=false&hide_rank=false&rank_icon=default&show_icons=true&include_all_commits=false&line_height=25&text_bold=true&disable_animations=false&number_format=short)](https://nice-readme.vercel.app/github-stats)
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td>
-
-[![Linguagens mais usadas](https://helio-github-stats.vercel.app/api/top-langs?username=matheushtms&layout=normal&stats_format=percentages&theme=dark&hide_border=false&border_radius=4.5&card_width=466&locale=pt-br&custom_title=Linguagens+mais+usadas&langs_count=8)](https://nice-readme.vercel.app/top-langs)
-
-</td>
-<td>
-
-[![Linguagens mais usadas](https://helio-github-stats.vercel.app/api/top-langs?username=matheushtms&layout=pie&stats_format=percentages&theme=dark&hide_border=false&border_radius=4.4&card_width=466&locale=pt-br&custom_title=Linguagens+mais+usadas&langs_count=8)](https://nice-readme.vercel.app/top-langs)
+[![Linguagens mais usadas](https://helio-github-stats.vercel.app/api/top-langs?username=matheushtms&layout=pie&stats_format=percentages&hide_border=false&border_radius=4.4&card_width=466&locale=pt-br&custom_title=Linguagens+mais+usadas&langs_count=8&bg_color=0D1117&title_color=2DD4BF&text_color=C9D1D9&border_color=2DD4BF)](https://nice-readme.vercel.app/top-langs)
 
 </td>
 </tr>
