@@ -35,7 +35,7 @@
 -----
 
 <div align="justify">
-<i><b>Olá</b> :wave:, sou o <code>Matheus Malta</code>, tenho 21 anos, moro em Belo Horizonte e sou <code>estudante</code> de Engenharia de Software <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>.</i> :man_teacher: Confira meu portfólio: <a href="https://devprofile-blond.vercel.app/">Malta.dev</a>
+<i><b>Olá</b> :wave:, sou o <code>Matheus Malta</code>, tenho 22 anos, moro em Belo Horizonte e sou <code>estudante</code> do 5º período de Engenharia de Software na <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>.</i> :man_teacher: Confira meu portfólio: <a href="https://devprofile-blond.vercel.app/">Malta.dev</a>
 </div>
 
 
@@ -53,7 +53,7 @@
 <td width="500px" >
 <div align="justify">
 <p> 
-- 🎓 Atualmente mergulhado no **4º período de Engenharia de Software** na **PUC Minas**, construindo minha base técnica.
+- 🎓 Atualmente mergulhado no **5º período de Engenharia de Software** na **PUC Minas**, construindo minha base técnica.
 - ☕ Tenho um foco constante em **Python e Java**, dedicando meu tempo ao domínio da lógica, orientação a objetos e arquitetura backend.
 - ⚙️ Sou entusiasta de **bancos de dados e APIs REST**, sempre prezando por um código limpo, organizado e seguindo as melhores práticas.
 - 🚀 Em busca da minha **primeira oportunidade de estágio** para acelerar meu crescimento e gerar impacto real através da tecnologia.
@@ -138,7 +138,7 @@
 
 <table>
 <tr>
- <td align="center" colspan="2">:watch: <a href="https://wakatime.com/@aramuni">WakaTime</a></td>
+ <td align="center" colspan="2">:watch: <a href="https://wakatime.com/@matheushtms">WakaTime</a></td>
 </tr> 
 <tr>
 
@@ -181,7 +181,13 @@
  <td align="center"></td>
 </tr>
 <tr>
- <td align="center"><a href="https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid" target="_blank"><img align="center" alt="github-user-contribution" src="https://joaopauloaramuni.github.io/image/github-user-contribution.svg?raw=true"/></a></td>
+ <td align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/matheushtms/matheushtms/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/matheushtms/matheushtms/output/github-contribution-grid-snake.svg" />
+    <img align="center" alt="matheushtms contribution snake" src="https://raw.githubusercontent.com/matheushtms/matheushtms/output/github-contribution-grid-snake.svg" />
+  </picture>
+ </td>
 </tr>
 <tr>
  <td align="center"></td>
@@ -192,8 +198,42 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=matheushtms&style=for-the-badge)](https://nice-readme.vercel.app/views-badge)
 
+-----
 
+<div>
 
+<img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/skills.svg?raw=true"/>&nbsp;Projetos em destaque:
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[🚀 DevProfile](https://github.com/matheushtms/devprofile)** — meu portfólio pessoal: site moderno, responsivo e acessível construído com React, Next.js e TypeScript. [Ver online »](https://devprofile-blond.vercel.app/)
+
+</td>
+<td width="50%" valign="top">
+
+**[📲 WhatsApp Automator](https://github.com/matheushtms/ProjetoDisparoWhatsapp)** — disparador de WhatsApp com fluxos automáticos: worker em background, persistência em SQLite e painel administrativo em React (Vite) + Tailwind com atualização em tempo real via WebSocket.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[📊 Méliuz Cashback A/B Test Analyzer](https://github.com/matheushtms/TESTE-T-CNICO-Est-gio-de-Growth-AI-Native-M-liuz)** — desafio técnico de Growth: dashboard em Python/Streamlit para análise estatística de teste A/B (Welch T-Test) de campanhas de cashback.
+
+</td>
+<td width="50%" valign="top">
+
+**[🔌 Task Manager via Sockets TCP](https://github.com/matheushtms/Trabalho-Redes)** — aplicação cliente-servidor distribuída em Java, comunicação via Sockets TCP com troca de dados em JSON e suporte a múltiplas conexões simultâneas.
+
+</td>
+</tr>
+</table>
+
+</div>
+
+-----
 
 <div>
 <details>
