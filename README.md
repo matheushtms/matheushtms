@@ -183,9 +183,9 @@
 <tr>
  <td align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/matheushtms/matheushtms/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/matheushtms/matheushtms/output/github-contribution-grid-snake.svg" />
-    <img align="center" alt="matheushtms contribution snake" src="https://raw.githubusercontent.com/matheushtms/matheushtms/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/matheushtms/matheushtms/main/profile-3d-contrib/profile-night-rainbow.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/matheushtms/matheushtms/main/profile-3d-contrib/profile-season-animate.svg" />
+    <img align="center" alt="gráfico 3D de contribuições de matheushtms" src="https://raw.githubusercontent.com/matheushtms/matheushtms/main/profile-3d-contrib/profile-night-rainbow.svg" />
   </picture>
  </td>
 </tr>
@@ -208,24 +208,36 @@
 <tr>
 <td width="50%" valign="top">
 
-**[🚀 DevProfile](https://github.com/matheushtms/devprofile)** — meu portfólio pessoal: site moderno, responsivo e acessível construído com React, Next.js e TypeScript. [Ver online »](https://devprofile-blond.vercel.app/)
+**[🔌 Task Manager via Sockets TCP](https://github.com/matheushtms/Trabalho-Redes)** — *(PUC Minas — Redes de Computadores)* aplicação cliente-servidor distribuída em Java, comunicação via Sockets TCP com troca de dados em JSON e suporte a múltiplas conexões simultâneas.
 
 </td>
 <td width="50%" valign="top">
 
-**[📲 WhatsApp Automator](https://github.com/matheushtms/ProjetoDisparoWhatsapp)** — disparador de WhatsApp com fluxos automáticos: worker em background, persistência em SQLite e painel administrativo em React (Vite) + Tailwind com atualização em tempo real via WebSocket.
+**[🪙 Sistema de Moeda Estudantil](https://github.com/matheushtms/Lab3_ProjetoDeSoftware)** — *(PUC Minas — Projeto de Software)* plataforma web gamificada em React/TypeScript para incentivo do mérito acadêmico através de reconhecimento por moeda virtual. [Ver online »](https://meuprojeto-sage.vercel.app)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**[📊 Méliuz Cashback A/B Test Analyzer](https://github.com/matheushtms/TESTE-T-CNICO-Est-gio-de-Growth-AI-Native-M-liuz)** — desafio técnico de Growth: dashboard em Python/Streamlit para análise estatística de teste A/B (Welch T-Test) de campanhas de cashback.
+**[💅 BeautyBook](https://github.com/matheushtms/Trabalho-final-ProjSoft)** — *(PUC Minas — Projeto de Software, trabalho final)* especificação completa de um sistema de agendamento: modelos de usuário, casos de uso, diagramas de sequência e modelos de projeto.
 
 </td>
 <td width="50%" valign="top">
 
-**[🔌 Task Manager via Sockets TCP](https://github.com/matheushtms/Trabalho-Redes)** — aplicação cliente-servidor distribuída em Java, comunicação via Sockets TCP com troca de dados em JSON e suporte a múltiplas conexões simultâneas.
+**[🚀 DevProfile](https://github.com/matheushtms/devprofile)** — meu portfólio pessoal: site moderno, responsivo e acessível construído com React, Next.js e TypeScript. [Ver online »](https://devprofile-blond.vercel.app/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[📲 WhatsApp Automator](https://github.com/matheushtms/ProjetoDisparoWhatsapp)** — disparador de WhatsApp com fluxos automáticos: worker em background, persistência em SQLite e painel administrativo em React (Vite) + Tailwind com atualização em tempo real via WebSocket.
+
+</td>
+<td width="50%" valign="top">
+
+**[📊 Méliuz Cashback A/B Test Analyzer](https://github.com/matheushtms/TESTE-T-CNICO-Est-gio-de-Growth-AI-Native-M-liuz)** — desafio técnico de Growth: dashboard em Python/Streamlit para análise estatística de teste A/B (Welch T-Test) de campanhas de cashback.
 
 </td>
 </tr>
