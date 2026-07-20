@@ -5,7 +5,7 @@
 <br/>
 
 <a href="https://devprofile-blond.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=24&duration=3000&pause=800&color=2DD4BF&center=true&vCenter=true&width=650&lines=Estudante+de+Engenharia+de+Software+%F0%9F%8E%93;Apaixonado+por+backend%2C+APIs+e+dados+%E2%98%95;Em+busca+da+minha+primeira+oportunidade+de+est%C3%A1gio+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=24&duration=3000&pause=800&color=2DD4BF&center=true&vCenter=true&width=650&lines=Estudante+de+Engenharia+de+Software;Apaixonado+por+backend%2C+APIs+e+dados;Em+busca+da+minha+primeira+oportunidade+de+est%C3%A1gio" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -21,23 +21,23 @@
 
 <br/>
 
-## 👋 Sobre mim
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="30" alt="" /> Sobre mim
 
 Sou o **Matheus Malta**, tenho 22 anos, moro em Belo Horizonte e curso o 5º período de Engenharia de Software na [PUC Minas](https://www.pucminas.br/).
 
-![Localização](https://img.shields.io/badge/📍-Belo%20Horizonte%2C%20Brasil-2b2b2b?style=flat-square)
-![Formação](https://img.shields.io/badge/🎓-5%C2%BA_per%C3%ADodo_de_Engenharia_de_Software_(PUC_Minas)-2b2b2b?style=flat-square)
-![Status](https://img.shields.io/badge/🚀-Em%20busca%20de%20est%C3%A1gio-2b2b2b?style=flat-square)
+![Localização](https://img.shields.io/badge/Belo_Horizonte%2C_Brasil-2b2b2b?style=flat-square)
+![Formação](https://img.shields.io/badge/5%C2%BA_per%C3%ADodo_de_Engenharia_de_Software_(PUC_Minas)-2b2b2b?style=flat-square)
+![Status](https://img.shields.io/badge/Em_busca_de_est%C3%A1gio-2b2b2b?style=flat-square)
 
-- ☕ Foco constante em **Python e Java**, dedicando meu tempo ao domínio da lógica, orientação a objetos e arquitetura backend.
-- ⚙️ Entusiasta de **bancos de dados e APIs REST**, sempre prezando por um código limpo, organizado e seguindo as melhores práticas.
-- 🚀 Em busca da minha **primeira oportunidade de estágio** para acelerar meu crescimento e gerar impacto real através da tecnologia.
-- 🏎️ Fanático por **F1** — admiro a engenharia de ponta e a precisão, valores que tento trazer para o meu dia a dia como dev.
-- 🏀 Nas horas vagas acompanho **basquete** e busco sempre evoluir como desenvolvedor através de **projetos próprios**.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" width="20" alt="" /> Foco constante em **Python e Java**, dedicando meu tempo ao domínio da lógica, orientação a objetos e arquitetura backend.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="20" alt="" /> Entusiasta de **bancos de dados e APIs REST**, sempre prezando por um código limpo, organizado e seguindo as melhores práticas.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="20" alt="" /> Em busca da minha **primeira oportunidade de estágio** para acelerar meu crescimento e gerar impacto real através da tecnologia.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Racing%20Car.png" width="20" alt="" /> Fanático por **F1** — admiro a engenharia de ponta e a precisão, valores que tento trazer para o meu dia a dia como dev.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Basketball.png" width="20" alt="" /> Nas horas vagas acompanho **basquete** e busco sempre evoluir como desenvolvedor através de **projetos próprios**.
 
 <br/>
 
-## 🛠️ Stack
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="30" alt="" /> Stack
 
 <div align="center">
 
@@ -47,11 +47,11 @@ Sou o **Matheus Malta**, tenho 22 anos, moro em Belo Horizonte e curso o 5º per
 
 <br/>
 
-## 📊 GitHub Stats
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30" alt="" /> GitHub Stats
 
 <div align="center">
 
-<a href="https://wakatime.com/@matheushtms">⌚ WakaTime</a>
+<a href="https://wakatime.com/@matheushtms">WakaTime</a>
 
 <table>
 <tr>
@@ -77,7 +77,7 @@ Sou o **Matheus Malta**, tenho 22 anos, moro em Belo Horizonte e curso o 5º per
 
 <br/>
 
-## 🌌 Minhas contribuições em 3D
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" width="30" alt="" /> Minhas contribuições em 3D
 
 <div align="center">
 
@@ -95,42 +95,42 @@ Sou o **Matheus Malta**, tenho 22 anos, moro em Belo Horizonte e curso o 5º per
 
 <br/>
 
-## 🚀 Projetos em destaque
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30" alt="" /> Projetos em destaque
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**[🔌 Task Manager via Sockets TCP](https://github.com/matheushtms/Trabalho-Redes)** — *(PUC Minas — Redes de Computadores)* aplicação cliente-servidor distribuída em Java, comunicação via Sockets TCP com troca de dados em JSON e suporte a múltiplas conexões simultâneas.
+**<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Electric%20Plug.png" width="18" alt="" /> [Task Manager via Sockets TCP](https://github.com/matheushtms/Trabalho-Redes)** — *(PUC Minas — Redes de Computadores)* aplicação cliente-servidor distribuída em Java, comunicação via Sockets TCP com troca de dados em JSON e suporte a múltiplas conexões simultâneas.
 
 </td>
 <td width="50%" valign="top">
 
-**[🪙 Sistema de Moeda Estudantil](https://github.com/matheushtms/Lab3_ProjetoDeSoftware)** — *(PUC Minas — Projeto de Software)* plataforma web gamificada em React/TypeScript para incentivo do mérito acadêmico através de reconhecimento por moeda virtual. [Ver online »](https://meuprojeto-sage.vercel.app)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[💅 BeautyBook](https://github.com/matheushtms/Trabalho-final-ProjSoft)** — *(PUC Minas — Projeto de Software, trabalho final)* especificação completa de um sistema de agendamento: modelos de usuário, casos de uso, diagramas de sequência e modelos de projeto.
-
-</td>
-<td width="50%" valign="top">
-
-**[🚀 DevProfile](https://github.com/matheushtms/devprofile)** — meu portfólio pessoal: site moderno, responsivo e acessível construído com React, Next.js e TypeScript. [Ver online »](https://devprofile-blond.vercel.app/)
+**<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Coin.png" width="18" alt="" /> [Sistema de Moeda Estudantil](https://github.com/matheushtms/Lab3_ProjetoDeSoftware)** — *(PUC Minas — Projeto de Software)* plataforma web gamificada em React/TypeScript para incentivo do mérito acadêmico através de reconhecimento por moeda virtual. [Ver online »](https://meuprojeto-sage.vercel.app)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**[📲 WhatsApp Automator](https://github.com/matheushtms/ProjetoDisparoWhatsapp)** — disparador de WhatsApp com fluxos automáticos: worker em background, persistência em SQLite e painel administrativo em React (Vite) + Tailwind com atualização em tempo real via WebSocket.
+**<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" width="18" alt="" /> [BeautyBook](https://github.com/matheushtms/Trabalho-final-ProjSoft)** — *(PUC Minas — Projeto de Software, trabalho final)* especificação completa de um sistema de agendamento: modelos de usuário, casos de uso, diagramas de sequência e modelos de projeto.
 
 </td>
 <td width="50%" valign="top">
 
-**[📊 Méliuz Cashback A/B Test Analyzer](https://github.com/matheushtms/TESTE-T-CNICO-Est-gio-de-Growth-AI-Native-M-liuz)** — desafio técnico de Growth: dashboard em Python/Streamlit para análise estatística de teste A/B (Welch T-Test) de campanhas de cashback.
+**<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="18" alt="" /> [DevProfile](https://github.com/matheushtms/devprofile)** — meu portfólio pessoal: site moderno, responsivo e acessível construído com React, Next.js e TypeScript. [Ver online »](https://devprofile-blond.vercel.app/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[WhatsApp Automator](https://github.com/matheushtms/ProjetoDisparoWhatsapp)** — disparador de WhatsApp com fluxos automáticos: worker em background, persistência em SQLite e painel administrativo em React (Vite) + Tailwind com atualização em tempo real via WebSocket.
+
+</td>
+<td width="50%" valign="top">
+
+**<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="18" alt="" /> [Méliuz Cashback A/B Test Analyzer](https://github.com/matheushtms/TESTE-T-CNICO-Est-gio-de-Growth-AI-Native-M-liuz)** — desafio técnico de Growth: dashboard em Python/Streamlit para análise estatística de teste A/B (Welch T-Test) de campanhas de cashback.
 
 </td>
 </tr>
@@ -139,5 +139,7 @@ Sou o **Matheus Malta**, tenho 22 anos, moro em Belo Horizonte e curso o 5º per
 <br/>
 
 <div align="center">
-<sub>Obrigado pela visita! Sinta-se à vontade para entrar em contato 🚀</sub>
+<sub>Obrigado pela visita! Sinta-se à vontade para entrar em contato</sub>
+<br/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="24" alt="" />
 </div>
