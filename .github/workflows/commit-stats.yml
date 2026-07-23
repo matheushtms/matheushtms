@@ -1,0 +1,26 @@
+name: Atualiza estatísticas de commits
+
+on:
+  schedule:
+    - cron: "0 6 * * *" # todo dia às 06:00 UTC (~03:00 em Brasília)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Atualiza badges de commits no README
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 scripts/update-commit-stats.py
+
+      - name: Commit e push se houver mudança
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git diff --quiet README.md || (git add README.md && git commit -m "chore: atualiza estatísticas de commits" && git push)
