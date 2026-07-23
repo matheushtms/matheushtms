@@ -97,7 +97,7 @@ Sou o **Matheus Malta**, tenho 22 anos, moro em Belo Horizonte e curso o 5º per
 
 <br/><br/>
 
-[![Atividade recente de matheushtms](https://github-readme-activity-graph.vercel.app/graph?username=matheushtms&custom_title=Atividade%20recente&bg_color=0D1117&color=C9D1D9&title_color=2DD4BF&line=2DD4BF&point=2DD4BF&area=true&area_color=2DD4BF&border_color=2DD4BF)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Atividade deste mês de matheushtms](https://github-readme-activity-graph.vercel.app/graph?username=matheushtms&custom_title=Atividade%20deste%20m%C3%AAs&bg_color=0D1117&color=C9D1D9&title_color=2DD4BF&line=2DD4BF&point=2DD4BF&area=true&area_color=2DD4BF&border_color=2DD4BF)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br/><br/>
 
