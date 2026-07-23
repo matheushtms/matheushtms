@@ -85,14 +85,14 @@ Sou o **Matheus Malta**, tenho 22 anos, moro em Belo Horizonte e curso o 5º per
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" width="30" alt="" /> Minhas contribuições em 3D
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" width="30" alt="" /> Minhas contribuições em Pac-Man
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/matheushtms/matheushtms/main/profile-3d-contrib/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/matheushtms/matheushtms/main/profile-3d-contrib/profile-season-animate.svg" />
-  <img alt="gráfico 3D de contribuições de matheushtms" src="https://raw.githubusercontent.com/matheushtms/matheushtms/main/profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/matheushtms/matheushtms/output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/matheushtms/matheushtms/output/pacman-contribution-graph.svg" />
+  <img alt="gráfico de contribuições de matheushtms em Pac-Man" src="https://raw.githubusercontent.com/matheushtms/matheushtms/output/pacman-contribution-graph.svg" />
 </picture>
 
 <br/><br/>
