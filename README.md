@@ -4,9 +4,7 @@
 
 <br/>
 
-<a href="https://devprofile-blond.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=24&duration=3000&pause=800&color=2DD4BF&center=true&vCenter=true&width=650&lines=Estudante+de+Engenharia+de+Software;Apaixonado+por+backend%2C+APIs+e+dados;Em+busca+da+minha+primeira+oportunidade+de+est%C3%A1gio" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=24&duration=3000&pause=800&color=2DD4BF&center=true&vCenter=true&width=650&lines=Estudante+de+Engenharia+de+Software;Apaixonado+por+backend%2C+APIs+e+dados;Em+busca+da+minha+primeira+oportunidade+de+est%C3%A1gio" alt="Typing SVG" />
 
 <br/>
 
@@ -15,7 +13,6 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5531971046149)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-malta-a39b66255/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/matheus_hmalta/)
-[![Portfólio](https://img.shields.io/badge/Portfólio-Malta.dev-2DD4BF?style=for-the-badge&logo=vercel&logoColor=white)](https://devprofile-blond.vercel.app/)
 
 </div>
 
@@ -130,7 +127,7 @@ Sou o **Matheus Malta**, tenho 22 anos, moro em Belo Horizonte e curso o 5º per
 </td>
 <td width="50%" valign="top">
 
-**<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="18" alt="" /> [DevProfile](https://github.com/matheushtms/devprofile)** — meu portfólio pessoal: site moderno, responsivo e acessível construído com React, Next.js e TypeScript. [Ver online »](https://devprofile-blond.vercel.app/)
+**<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="18" alt="" /> [DevProfile](https://github.com/matheushtms/devprofile)** — meu portfólio pessoal: site moderno, responsivo e acessível construído com React, Next.js e TypeScript.
 
 </td>
 </tr>
