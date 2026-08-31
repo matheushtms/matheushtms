@@ -37,6 +37,14 @@ Sou o **Matheus Malta**, tenho 22 anos, moro em Belo Horizonte e curso o 5º per
 
 <br/>
 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="30" alt="" /> Atualmente estudando
+
+![Python](https://img.shields.io/badge/Python-2b2b2b?style=flat-square&logo=python&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-2b2b2b?style=flat-square&logo=flutter&logoColor=white)
+![Padrões de Projeto](https://img.shields.io/badge/Padr%C3%B5es_de_Projeto-2b2b2b?style=flat-square)
+
+<br/>
+
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="30" alt="" /> Stack
 
 <div align="center">
@@ -79,6 +87,13 @@ Sou o **Matheus Malta**, tenho 22 anos, moro em Belo Horizonte e curso o 5º per
 
 </td>
 </tr>
+<tr>
+<td colspan="2">
+
+<img src="https://github-trophies.devomb.com/?username=matheushtms&theme=onedark&no-frame=true&margin-w=8&column=4" alt="Trophies de matheushtms" />
+
+</td>
+</tr>
 </table>
 
 </div>
@@ -100,6 +115,49 @@ Sou o **Matheus Malta**, tenho 22 anos, moro em Belo Horizonte e curso o 5º per
 [![Profile Views](https://komarev.com/ghpvc/?username=matheushtms&style=for-the-badge)](https://nice-readme.vercel.app/views-badge)
 
 </div>
+
+<br/>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="30" alt="" /> Livros que recomendo
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Clean Code** — *Robert C. Martin* — a base das boas práticas e do código limpo que tento seguir no dia a dia.
+
+</td>
+<td width="50%" valign="top">
+
+**The Pragmatic Programmer** — *David Thomas & Andrew Hunt* — hábitos e princípios pra evoluir como dev além da sintaxe.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**Designing Data-Intensive Applications** — *Martin Kleppmann* — como bancos de dados e sistemas distribuídos funcionam por dentro.
+
+</td>
+<td width="50%" valign="top">
+
+**Effective Java** — *Joshua Bloch* — referência pra escrever Java idiomático e evitar armadilhas comuns.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**Fluent Python** — *Luciano Ramalho* — pra explorar o que a linguagem oferece além do básico.
+
+</td>
+<td width="50%" valign="top">
+
+**Cracking the Coding Interview** — *Gayle Laakmann McDowell* — preparação técnica pra entrevistas na busca pelo primeiro estágio.
+
+</td>
+</tr>
+</table>
 
 <br/>
 
