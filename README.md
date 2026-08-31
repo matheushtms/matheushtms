@@ -64,7 +64,7 @@ Sou o **Matheus Malta**, tenho 22 anos, moro em Belo Horizonte e curso o 5º per
 <table>
 <tr>
 <td>
-<a href="https://nice-readme.vercel.app/streak-stats" target="_blank" rel="noopener noreferrer"><img src="https://github-streak-stats-ruby.vercel.app/?user=matheushtms&hide_border=false&border_radius=4.5&locale=pt_BR&short_numbers=false&mode=daily&disable_animations=false&card_width=466&card_height=194&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&background=0D1117&border=2DD4BF&stroke=2DD4BF&ring=2DD4BF&fire=2DD4BF&currStreakNum=FFFFFF&sideNums=C9D1D9&currStreakLabel=2DD4BF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak de matheushtms" width="466" height="194" loading="lazy" /></a>
+<a href="https://nice-readme.vercel.app/streak-stats" target="_blank" rel="noopener noreferrer"><img src="https://streak-stats.demolab.com?user=matheushtms&hide_border=false&border_radius=4.5&locale=pt_BR&short_numbers=false&mode=daily&disable_animations=false&card_width=466&card_height=194&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&background=0D1117&border=2DD4BF&stroke=2DD4BF&ring=2DD4BF&fire=2DD4BF&currStreakNum=FFFFFF&sideNums=C9D1D9&currStreakLabel=2DD4BF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak de matheushtms" width="466" height="194" loading="lazy" /></a>
 </td>
 <td>
 
@@ -94,10 +94,6 @@ Sou o **Matheus Malta**, tenho 22 anos, moro em Belo Horizonte e curso o 5º per
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/matheushtms/matheushtms/output/pacman-contribution-graph.svg" />
   <img alt="gráfico de contribuições de matheushtms em Pac-Man" src="https://raw.githubusercontent.com/matheushtms/matheushtms/output/pacman-contribution-graph.svg" />
 </picture>
-
-<br/><br/>
-
-[![Atividade deste mês de matheushtms](https://github-readme-activity-graph.vercel.app/graph?username=matheushtms&custom_title=Atividade%20deste%20m%C3%AAs&bg_color=0D1117&color=C9D1D9&title_color=2DD4BF&line=2DD4BF&point=2DD4BF&area=true&area_color=2DD4BF&border_color=2DD4BF)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br/><br/>
 
