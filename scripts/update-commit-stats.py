@@ -28,8 +28,6 @@ query($login: String!, $from: DateTime!, $to: DateTime!) {
   user(login: $login) {
     contributionsCollection(from: $from, to: $to) {
       totalCommitContributions
-      restrictedContributionsCount
-      contributionCalendar { totalContributions }
     }
   }
 }
@@ -60,9 +58,7 @@ def commits_in_range(token, start, end):
         {"login": LOGIN, "from": start.isoformat(), "to": end.isoformat()},
         token,
     )
-    cc = data["user"]["contributionsCollection"]
-    print(f"DEBUG {start.date()}..{end.date()}: {cc}", file=sys.stderr)
-    return cc["totalCommitContributions"]
+    return data["user"]["contributionsCollection"]["totalCommitContributions"]
 
 
 def main():
