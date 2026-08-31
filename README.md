@@ -56,7 +56,7 @@ Sou o **Matheus Malta**, tenho 22 anos, moro em Belo Horizonte e curso o 5º per
 <br/><br/>
 
 <!-- COMMIT-STATS:START -->
-![Commits hoje](https://img.shields.io/badge/Commits_hoje-1-2DD4BF?style=for-the-badge&logo=git&logoColor=white) ![Commits este ano](https://img.shields.io/badge/Commits_este_ano-174-2DD4BF?style=for-the-badge&logo=git&logoColor=white) ![Commits no total](https://img.shields.io/badge/Commits_no_total-199-2DD4BF?style=for-the-badge&logo=git&logoColor=white)
+![Commits hoje](https://img.shields.io/badge/Commits_hoje-2-2DD4BF?style=for-the-badge&logo=git&logoColor=white) ![Commits este ano](https://img.shields.io/badge/Commits_este_ano-175-2DD4BF?style=for-the-badge&logo=git&logoColor=white) ![Commits no total](https://img.shields.io/badge/Commits_no_total-200-2DD4BF?style=for-the-badge&logo=git&logoColor=white)
 <!-- COMMIT-STATS:END -->
 
 <br/>
