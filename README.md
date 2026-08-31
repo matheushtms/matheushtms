@@ -19,7 +19,7 @@
 
 </div>
 
-<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=2DD4BF&height=3&section=header" alt="" />
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="30" alt="" /> Sobre mim
 
@@ -35,15 +35,17 @@ Sou o **Matheus Malta**, tenho 22 anos, moro em Belo Horizonte e curso o 5º per
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Racing%20Car.png" width="20" alt="" /> Fanático por **F1** — admiro a engenharia de ponta e a precisão, valores que tento trazer para o meu dia a dia como dev.
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Basketball.png" width="20" alt="" /> Nas horas vagas acompanho **basquete** e busco sempre evoluir como desenvolvedor através de **projetos próprios**.
 
-<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=2DD4BF&height=3&section=header" alt="" />
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="30" alt="" /> Atualmente estudando
+
+No momento, aprofundando conhecimento em:
 
 ![Python](https://img.shields.io/badge/Python-2b2b2b?style=flat-square&logo=python&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-2b2b2b?style=flat-square&logo=flutter&logoColor=white)
 ![Padrões de Projeto](https://img.shields.io/badge/Padr%C3%B5es_de_Projeto-2b2b2b?style=flat-square)
 
-<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=2DD4BF&height=3&section=header" alt="" />
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="30" alt="" /> Stack
 
@@ -53,7 +55,7 @@ Sou o **Matheus Malta**, tenho 22 anos, moro em Belo Horizonte e curso o 5º per
 
 </div>
 
-<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=2DD4BF&height=3&section=header" alt="" />
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30" alt="" /> GitHub Stats
 
@@ -98,7 +100,7 @@ Sou o **Matheus Malta**, tenho 22 anos, moro em Belo Horizonte e curso o 5º per
 
 </div>
 
-<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=2DD4BF&height=3&section=header" alt="" />
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" width="30" alt="" /> Atividade
 
@@ -116,7 +118,7 @@ Sou o **Matheus Malta**, tenho 22 anos, moro em Belo Horizonte e curso o 5º per
 
 </div>
 
-<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=2DD4BF&height=3&section=header" alt="" />
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="30" alt="" /> Livros que recomendo
 
@@ -124,42 +126,42 @@ Sou o **Matheus Malta**, tenho 22 anos, moro em Belo Horizonte e curso o 5º per
 <tr>
 <td width="50%" valign="top">
 
-**Clean Code** — *Robert C. Martin* — a base das boas práticas e do código limpo que tento seguir no dia a dia.
+**<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Blue%20Book.png" width="18" alt="" /> Clean Code** — *Robert C. Martin* — a base das boas práticas e do código limpo que tento seguir no dia a dia.
 
 </td>
 <td width="50%" valign="top">
 
-**The Pragmatic Programmer** — *David Thomas & Andrew Hunt* — hábitos e princípios pra evoluir como dev além da sintaxe.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**Designing Data-Intensive Applications** — *Martin Kleppmann* — como bancos de dados e sistemas distribuídos funcionam por dentro.
-
-</td>
-<td width="50%" valign="top">
-
-**Effective Java** — *Joshua Bloch* — referência pra escrever Java idiomático e evitar armadilhas comuns.
+**<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Notebook.png" width="18" alt="" /> The Pragmatic Programmer** — *David Thomas & Andrew Hunt* — hábitos e princípios pra evoluir como dev além da sintaxe.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**Fluent Python** — *Luciano Ramalho* — pra explorar o que a linguagem oferece além do básico.
+**<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="18" alt="" /> Designing Data-Intensive Applications** — *Martin Kleppmann* — como bancos de dados e sistemas distribuídos funcionam por dentro.
 
 </td>
 <td width="50%" valign="top">
 
-**Cracking the Coding Interview** — *Gayle Laakmann McDowell* — preparação técnica pra entrevistas na busca pelo primeiro estágio.
+**<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bookmark.png" width="18" alt="" /> Effective Java** — *Joshua Bloch* — referência pra escrever Java idiomático e evitar armadilhas comuns.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" width="18" alt="" /> Fluent Python** — *Luciano Ramalho* — pra explorar o que a linguagem oferece além do básico.
+
+</td>
+<td width="50%" valign="top">
+
+**<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Pencil.png" width="18" alt="" /> Cracking the Coding Interview** — *Gayle Laakmann McDowell* — preparação técnica pra entrevistas na busca pelo primeiro estágio.
 
 </td>
 </tr>
 </table>
 
-<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=2DD4BF&height=3&section=header" alt="" />
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30" alt="" /> Projetos em destaque
 
@@ -202,10 +204,8 @@ Sou o **Matheus Malta**, tenho 22 anos, moro em Belo Horizonte e curso o 5º per
 </tr>
 </table>
 
-<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:2DD4BF&height=150&section=footer&text=Obrigado%20pela%20visita!&fontSize=26&fontColor=FFFFFF&fontAlignY=75&animation=fadeIn" alt="Obrigado pela visita" />
 
 <div align="center">
-<sub>Obrigado pela visita! Sinta-se à vontade para entrar em contato</sub>
-<br/>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="24" alt="" />
+<sub>Sinta-se à vontade para entrar em contato</sub>
 </div>
