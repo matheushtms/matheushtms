@@ -66,7 +66,7 @@ No momento, aprofundando conhecimento em:
 <br/><br/>
 
 <!-- COMMIT-STATS:START -->
-![Commits hoje](https://img.shields.io/badge/Commits_hoje-0-2DD4BF?style=for-the-badge&logo=git&logoColor=white) ![Commits este ano](https://img.shields.io/badge/Commits_este_ano-196-2DD4BF?style=for-the-badge&logo=git&logoColor=white) ![Commits no total](https://img.shields.io/badge/Commits_no_total-221-2DD4BF?style=for-the-badge&logo=git&logoColor=white)
+![Commits hoje](https://img.shields.io/badge/Commits_hoje-0-2DD4BF?style=for-the-badge&logo=git&logoColor=white) ![Commits este ano](https://img.shields.io/badge/Commits_este_ano-198-2DD4BF?style=for-the-badge&logo=git&logoColor=white) ![Commits no total](https://img.shields.io/badge/Commits_no_total-223-2DD4BF?style=for-the-badge&logo=git&logoColor=white)
 <!-- COMMIT-STATS:END -->
 
 <br/>
