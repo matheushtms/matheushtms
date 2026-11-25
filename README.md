@@ -5,7 +5,7 @@
 <br/>
 
 <a href="https://my-repositore-xi.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=24&duration=3000&pause=800&color=2DD4BF&center=true&vCenter=true&width=650&lines=Estudante+de+Engenharia+de+Software;Apaixonado+por+backend%2C+APIs+e+dados;Em+busca+da+minha+primeira+oportunidade+de+est%C3%A1gio" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=24&duration=3000&pause=800&color=2DD4BF&center=true&vCenter=true&width=650&lines=Estudante+de+Engenharia+de+Software;Full-stack+e+mobile%3A+do+modelo+de+dados+ao+deploy;Em+busca+da+minha+primeira+oportunidade+de+est%C3%A1gio" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -29,8 +29,8 @@ Sou o **Matheus Malta**, tenho 22 anos, moro em Belo Horizonte e curso o 5º per
 ![Formação](https://img.shields.io/badge/5%C2%BA_per%C3%ADodo_de_Engenharia_de_Software_(PUC_Minas)-2b2b2b?style=flat-square)
 ![Status](https://img.shields.io/badge/Em_busca_de_est%C3%A1gio-2b2b2b?style=flat-square)
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" width="20" alt="" /> Foco constante em **Python e Java**, dedicando meu tempo ao domínio da lógica, orientação a objetos e arquitetura backend.
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="20" alt="" /> Entusiasta de **bancos de dados e APIs REST**, sempre prezando por um código limpo, organizado e seguindo as melhores práticas.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" width="20" alt="" /> Construo produtos **full-stack e mobile** do modelo de dados ao deploy — hoje com **Next.js, React, Flutter, Node.js e Firebase/Supabase** — além de **Java/Spring Boot e Python** nos projetos da faculdade.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="20" alt="" /> Faço projetos freelancer em parceria com dois amigos para clientes reais, incluindo um **SaaS multi-tenant de agendamento em piloto** e sistemas de gestão com isolamento por tenant e testes de regras de segurança.
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="20" alt="" /> Em busca da minha **primeira oportunidade de estágio** para acelerar meu crescimento e gerar impacto real através da tecnologia.
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Racing%20Car.png" width="20" alt="" /> Fanático por **F1** — admiro a engenharia de ponta e a precisão, valores que tento trazer para o meu dia a dia como dev.
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Basketball.png" width="20" alt="" /> Nas horas vagas acompanho **basquete** e busco sempre evoluir como desenvolvedor através de **projetos próprios**.
@@ -47,11 +47,23 @@ No momento, aprofundando conhecimento em:
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=2DD4BF&height=3&section=header" alt="" />
 
+## Projetos em destaque
+
+- **Agenda Barbearia** — SaaS multi-tenant de agendamento, em piloto real (Next.js, Supabase, RLS, WhatsApp Business API).
+- **Box+** — gestão de oficina mecânica com API Node/TypeScript, painel Next.js e apps Flutter.
+- **Laudo** — app Flutter de vistorias com voz transcrita no aparelho e modo offline.
+- **Patetive** — diretório de grupos de desconto no WhatsApp (Next.js PWA + Firebase).
+- **Plane Graph Analysis** — PageRank, Betweenness e comunidades implementados do zero em Python.
+
+Mais no [portfólio](https://my-repositore-xi.vercel.app).
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=2DD4BF&height=3&section=header" alt="" />
+
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="30" alt="" /> Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,cs,java,spring,html,css,javascript,react,nextjs,nodejs,fastapi,postgresql,mongodb,docker,aws,git,postman,vscode,pycharm,eclipse&theme=dark&perline=11" alt="Stack de tecnologias" />
+<img src="https://skillicons.dev/icons?i=python,java,spring,ts,js,html,css,react,nextjs,tailwind,vite,nodejs,fastapi,flutter,dart,firebase,supabase,postgres,mysql,docker,aws,git,figma,vscode&theme=dark&perline=11" alt="Stack de tecnologias" />
 
 </div>
 
