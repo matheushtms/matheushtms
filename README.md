@@ -79,7 +79,7 @@ Mais no [portfólio](https://my-repositore-xi.vercel.app).
 <br/><br/>
 
 <!-- COMMIT-STATS:START -->
-![Commits hoje](https://img.shields.io/badge/Commits_hoje-0-2DD4BF?style=for-the-badge&logo=git&logoColor=white) ![Commits este ano](https://img.shields.io/badge/Commits_este_ano-212-2DD4BF?style=for-the-badge&logo=git&logoColor=white) ![Commits no total](https://img.shields.io/badge/Commits_no_total-237-2DD4BF?style=for-the-badge&logo=git&logoColor=white)
+![Commits hoje](https://img.shields.io/badge/Commits_hoje-0-2DD4BF?style=for-the-badge&logo=git&logoColor=white) ![Commits este ano](https://img.shields.io/badge/Commits_este_ano-219-2DD4BF?style=for-the-badge&logo=git&logoColor=white) ![Commits no total](https://img.shields.io/badge/Commits_no_total-244-2DD4BF?style=for-the-badge&logo=git&logoColor=white)
 <!-- COMMIT-STATS:END -->
 
 <br/>
